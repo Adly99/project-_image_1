@@ -12,7 +12,7 @@ scale_ratio = 1 # Option to scale to fraction of original size.
 # save the output to a video file
 output_filename = 'project_video_final.mp4' # save the output to a video file
 output_frames_per_second = 10.0
-
+# idpoid djapid 888888888888888888888888888888888888888888
 # Global variables
 prev_leftx = None
 prev_lefty = None
