@@ -56,6 +56,8 @@ def mag_thresh(image, sobel_kernel=3, thresh=(0, 255)):
                        i.e. number of rows and columns
   :return: Binary (black and white) 2D mask image
   """
+
+  #jidjafouh jufnaiufh  huiiiiiiiiiiiiiiiiiiiiiiiiiiiii
   # Get the magnitude of the edges that are vertically aligned on the image
   sobelx = np.absolute(sobel(image, orient='x', sobel_kernel=sobel_kernel))
 
